@@ -1,5 +1,19 @@
-<nav>
-    {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% endif %}>{{ item.name }}</a>
-    {% endfor %}
+<nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-center">
+    <a class="navbar-brand d-flex w-50 mr-auto" href="#">
+        Fabio Arazaki
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse w-100" id="myNavbar">
+        <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
+            {% for item in site.data.navigation %}
+            <li {% if page.url == item.link %}class="nav-item active" {% endif %} class="nav-item">
+                <a class="nav-link" href="{{ item.link }}">
+                    {{ item.name }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </nav>

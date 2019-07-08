@@ -1,0 +1,27 @@
+---
+title: Portfolio
+---
+<div class="page-title pl-3 pt-2 pb-2 mb-4">
+    <h2>My Portfolio</h2>
+</div>
+
+<div class="mb-0">
+    {% for post in site.posts %}
+    <div class="media mb-2 bg-light">
+        <img class="p-3 portfolio-image" src="{{ post.image_url }}" alt="{{post.title}}" />
+        <div class="media-body p-3">
+            <h3 class="mt-0 mb-1">{{ post.title }}</h3>
+            <h6>{{ post.start_date | date: "%B %Y" }} - {{ post.end_date | date: "%B %Y" }}</h6>
+            <p class="pt-2">
+                {{ post.excerpt }}
+                <a href="{{ post.url }}">Read more</a>
+            </p>
+            <div>
+                {% for tech_stack in post.tech_stack %}
+                <span class="badge badge-primary">{{ tech_stack }}</span>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

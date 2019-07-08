@@ -1,21 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-06T16:05:09-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">arazaki.github.io</title><subtitle>Portfolio</subtitle><entry><title type="html">Bananas</title><link href="http://localhost:4000/2019/07/05/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2019-07-05T00:00:00-03:00</published><updated>2019-07-05T00:00:00-03:00</updated><id>http://localhost:4000/2019/07/05/bananas</id><content type="html" xml:base="http://localhost:4000/2019/07/05/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-08T15:12:15-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">arazaki.github.io</title><subtitle>Portfolio</subtitle><entry><title type="html">Capsula Do Tempo</title><link href="http://localhost:4000/2019/07/01/capsula-do-tempo.html" rel="alternate" type="text/html" title="Capsula Do Tempo" /><published>2019-07-01T00:00:00-03:00</published><updated>2019-07-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/07/01/capsula-do-tempo</id><content type="html" xml:base="http://localhost:4000/2019/07/01/capsula-do-tempo.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
-&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2019/07/03/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2019-07-03T00:00:00-03:00</published><updated>2019-07-03T00:00:00-03:00</updated><id>http://localhost:4000/2019/07/03/apples</id><content type="html" xml:base="http://localhost:4000/2019/07/03/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+&lt;p&gt;Cápsula do tempo is a self-service totem/machine for recording messages that are going to be delivered in the future like a time capsule. The messages are recorded during an event, for example, a wedding and when the totem connects to the internet starts to synchronize with the server that uploads the videos and program them to be sent in the future.&lt;/p&gt;
 
-&lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bluberry</title><link href="http://localhost:4000/2019/06/30/bluberry.html" rel="alternate" type="text/html" title="Bluberry" /><published>2019-06-30T00:00:00-03:00</published><updated>2019-06-30T00:00:00-03:00</updated><id>http://localhost:4000/2019/06/30/bluberry</id><content type="html" xml:base="http://localhost:4000/2019/06/30/bluberry.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
-berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
 
-&lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
-hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
-diameter). It has a fibrous, dull greenish-brown skin and bright green or
-golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
-texture, with a sweet and unique flavor.&lt;/p&gt;</content><author><name>ted</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;Requirements gathering&lt;/li&gt;
+  &lt;li&gt;Frontend Developer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Node.js (Electron)&lt;/li&gt;
+  &lt;li&gt;Ruby On Rails&lt;/li&gt;
+  &lt;li&gt;MongoDB&lt;/li&gt;
+  &lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Cápsula do tempo is a self-service totem/machine for recording messages that are going to be delivered in the future like a time capsule.</summary></entry><entry><title type="html">Clubis</title><link href="http://localhost:4000/2019/03/01/clubis.html" rel="alternate" type="text/html" title="Clubis" /><published>2019-03-01T00:00:00-03:00</published><updated>2019-03-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/03/01/clubis</id><content type="html" xml:base="http://localhost:4000/2019/03/01/clubis.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;CluBis is a web application created to improve restaurant sales through a loyalty program based on a cashback structure. This project is an MVP created to validate the idea and to present it to investors.&lt;/p&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requirements gathering&lt;/li&gt;
+  &lt;li&gt;Frontend Developer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Node.js&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">CluBis is a web application created to improve restaurant sales through a loyalty program based on a cashback structure.</summary></entry><entry><title type="html">Clientool</title><link href="http://localhost:4000/2018/03/01/clientool.html" rel="alternate" type="text/html" title="Clientool" /><published>2018-03-01T00:00:00-03:00</published><updated>2018-03-01T00:00:00-03:00</updated><id>http://localhost:4000/2018/03/01/clientool</id><content type="html" xml:base="http://localhost:4000/2018/03/01/clientool.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;ClienTOOL is a relationship marketing assistant that uses artificial intelligence to assist individual entrepreneurs prospecting, improving the flow of information and monitoring customer satisfaction.&lt;/p&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requirements gathering&lt;/li&gt;
+  &lt;li&gt;Product Owner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Java (Android)&lt;/li&gt;
+  &lt;li&gt;Java (Grails)&lt;/li&gt;
+  &lt;li&gt;MongoDB&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">ClienTOOL is a relationship marketing assistant that uses artificial intelligence to assist individual entrepreneurs prospecting, improving the flow of information and monitoring customer satisfaction.</summary></entry><entry><title type="html">Equipe Movel</title><link href="http://localhost:4000/2017/08/01/equipe-movel.html" rel="alternate" type="text/html" title="Equipe Movel" /><published>2017-08-01T00:00:00-03:00</published><updated>2017-08-01T00:00:00-03:00</updated><id>http://localhost:4000/2017/08/01/equipe-movel</id><content type="html" xml:base="http://localhost:4000/2017/08/01/equipe-movel.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;Equipe Móvel is a mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts. All the information and activities can be watched through the web-based dashboard.&lt;/p&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requirements gathering&lt;/li&gt;
+  &lt;li&gt;Frontend/UX Designer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;JQuery&lt;/li&gt;
+  &lt;li&gt;Java (Grails)&lt;/li&gt;
+  &lt;li&gt;MongoDB&lt;/li&gt;
+  &lt;li&gt;MySQL&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Equipe Móvel is a mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts.</summary></entry><entry><title type="html">Sigo Trade</title><link href="http://localhost:4000/2014/01/01/sigo-trade.html" rel="alternate" type="text/html" title="Sigo Trade" /><published>2014-01-01T00:00:00-02:00</published><updated>2014-01-01T00:00:00-02:00</updated><id>http://localhost:4000/2014/01/01/sigo-trade</id><content type="html" xml:base="http://localhost:4000/2014/01/01/sigo-trade.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;SIGO Trade is a trade marketing application focused on the management of sales promoters and POS (Point of Sale). It is a system with an intuitive and user-friendly interface, providing security in collecting data and more assertive merchandising actions. 
+With SIGO Trade is possible to perform simple, fast and intuitively activities such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Creating routes for each promoter&lt;/li&gt;
+  &lt;li&gt;Monitoring external team&lt;/li&gt;
+  &lt;li&gt;Assembling and monitoring of activities&lt;/li&gt;
+  &lt;li&gt;Data collection (shortage, stock, prices, photos)&lt;/li&gt;
+  &lt;li&gt;Check-in/check-out control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full Stack Developer&lt;/li&gt;
+  &lt;li&gt;Frontend/UX Designer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;JQuery&lt;/li&gt;
+  &lt;li&gt;PHP (Yii)&lt;/li&gt;
+  &lt;li&gt;Java (Grails)&lt;/li&gt;
+  &lt;li&gt;MySQL&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">SIGO Trade is a trade marketing application focused on the management of sales promoters and POS (Point of Sale).</summary></entry></feed>
