@@ -15,10 +15,10 @@ ClienTOOL is a relationship marketing assistant that uses artificial intelligenc
 
 ### Responsibilities
 
-- Requirements gathering
 - Product Owner
 
 ### Tech stack
+- Scrum;
 - Java (Android)
 - Java (Grails)
 - MongoDB

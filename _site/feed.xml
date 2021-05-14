@@ -1,25 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-08T17:29:45-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">arazaki.github.io</title><subtitle>Portfolio</subtitle><entry><title type="html">Capsula Do Tempo</title><link href="http://localhost:4000/2019/07/01/capsula-do-tempo.html" rel="alternate" type="text/html" title="Capsula Do Tempo" /><published>2019-07-01T00:00:00-03:00</published><updated>2019-07-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/07/01/capsula-do-tempo</id><content type="html" xml:base="http://localhost:4000/2019/07/01/capsula-do-tempo.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-14T15:36:50-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">arazaki.github.io</title><subtitle>Portfolio</subtitle><entry><title type="html">Clube Gazeta Do Povo</title><link href="http://localhost:4000/2020/07/01/clube-gazeta-do-povo.html" rel="alternate" type="text/html" title="Clube Gazeta Do Povo" /><published>2020-07-01T00:00:00-03:00</published><updated>2020-07-01T00:00:00-03:00</updated><id>http://localhost:4000/2020/07/01/clube-gazeta-do-povo</id><content type="html" xml:base="http://localhost:4000/2020/07/01/clube-gazeta-do-povo.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
-&lt;p&gt;Cápsula do tempo is a self-service totem/machine for recording messages that are going to be delivered in the future like a time capsule. The messages are recorded during an event, for example, a wedding and when the totem connects to the internet starts to synchronize with the server that uploads the videos and program them to be sent in the future.&lt;/p&gt;
+&lt;p&gt;A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows. As a Product Owner I was responsible to ensure that the most valuable product was being delivered to the members (customers). I kept track of the app’s usage, member’s feedback, developed and managed the Product Backlog.&lt;/p&gt;
 
 &lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Requirements gathering&lt;/li&gt;
-  &lt;li&gt;Frontend Developer&lt;/li&gt;
+  &lt;li&gt;Product Owner&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;React&lt;/li&gt;
-  &lt;li&gt;Node.js (Electron)&lt;/li&gt;
-  &lt;li&gt;Ruby On Rails&lt;/li&gt;
-  &lt;li&gt;MongoDB&lt;/li&gt;
-  &lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Cápsula do tempo is a self-service totem/machine for recording messages that are going to be delivered in the future like a time capsule.</summary></entry><entry><title type="html">Clubis</title><link href="http://localhost:4000/2019/03/01/clubis.html" rel="alternate" type="text/html" title="Clubis" /><published>2019-03-01T00:00:00-03:00</published><updated>2019-03-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/03/01/clubis</id><content type="html" xml:base="http://localhost:4000/2019/03/01/clubis.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+  &lt;li&gt;Scrum;&lt;/li&gt;
+  &lt;li&gt;ReactJS/React Native;&lt;/li&gt;
+  &lt;li&gt;NodeJS;&lt;/li&gt;
+  &lt;li&gt;PostgreSQL.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows.</summary></entry><entry><title type="html">Capsula Do Tempo</title><link href="http://localhost:4000/2019/07/01/capsula-do-tempo.html" rel="alternate" type="text/html" title="Capsula Do Tempo" /><published>2019-07-01T00:00:00-03:00</published><updated>2019-07-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/07/01/capsula-do-tempo</id><content type="html" xml:base="http://localhost:4000/2019/07/01/capsula-do-tempo.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;Cápsula do tempo is a franchise of self-service totem for recording messages to be delivered in the future, like a time capsule.
+During an event (ie. wedding, graduation, anniversary) guests access the application through a touchscreen totem machine, record video messages, and then the totem starts to synchronize with the server (through an internet connection) that uploads the videos. On the server-side, the application schedule the videos to be sent in the future.&lt;/p&gt;
+
+&lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fullstack Developer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML, CSS, Javascript;&lt;/li&gt;
+  &lt;li&gt;ReactJS;&lt;/li&gt;
+  &lt;li&gt;Electron Framework;&lt;/li&gt;
+  &lt;li&gt;NodeJS, Ruby;&lt;/li&gt;
+  &lt;li&gt;MongoDB, PostgreSQL.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Cápsula do tempo is a franchise of self-service totem for recording messages to be delivered in the future, like a time capsule.</summary></entry><entry><title type="html">Clubis</title><link href="http://localhost:4000/2019/03/01/clubis.html" rel="alternate" type="text/html" title="Clubis" /><published>2019-03-01T00:00:00-03:00</published><updated>2019-03-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/03/01/clubis</id><content type="html" xml:base="http://localhost:4000/2019/03/01/clubis.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
 &lt;p&gt;CluBis is a web application created to improve restaurant sales through a loyalty program based on a cashback structure. This project is an MVP created to validate the idea and to present it to investors.&lt;/p&gt;
 
@@ -32,13 +45,10 @@
 
 &lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;React&lt;/li&gt;
-  &lt;li&gt;Node.js&lt;/li&gt;
-  &lt;li&gt;Firebase&lt;/li&gt;
-  &lt;li&gt;PostgreSQL&lt;/li&gt;
+  &lt;li&gt;HTML, CSS, Javascript;&lt;/li&gt;
+  &lt;li&gt;ReactJS;&lt;/li&gt;
+  &lt;li&gt;NodeJS;&lt;/li&gt;
+  &lt;li&gt;Firebase, PostgreSQL.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">CluBis is a web application created to improve restaurant sales through a loyalty program based on a cashback structure.</summary></entry><entry><title type="html">Clientool</title><link href="http://localhost:4000/2018/03/01/clientool.html" rel="alternate" type="text/html" title="Clientool" /><published>2018-03-01T00:00:00-03:00</published><updated>2018-03-01T00:00:00-03:00</updated><id>http://localhost:4000/2018/03/01/clientool</id><content type="html" xml:base="http://localhost:4000/2018/03/01/clientool.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
 &lt;p&gt;ClienTOOL is a relationship marketing assistant that uses artificial intelligence to assist individual entrepreneurs prospecting, improving the flow of information and monitoring customer satisfaction.&lt;/p&gt;
@@ -46,12 +56,12 @@
 &lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Requirements gathering&lt;/li&gt;
   &lt;li&gt;Product Owner&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
 &lt;ul&gt;
+  &lt;li&gt;Scrum;&lt;/li&gt;
   &lt;li&gt;Java (Android)&lt;/li&gt;
   &lt;li&gt;Java (Grails)&lt;/li&gt;
   &lt;li&gt;MongoDB&lt;/li&gt;
@@ -62,19 +72,15 @@
 &lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Requirements gathering&lt;/li&gt;
-  &lt;li&gt;Frontend/UX Designer&lt;/li&gt;
+  &lt;li&gt;Fullstack Developer&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;JQuery&lt;/li&gt;
-  &lt;li&gt;Java (Grails)&lt;/li&gt;
-  &lt;li&gt;MongoDB&lt;/li&gt;
-  &lt;li&gt;MySQL&lt;/li&gt;
+  &lt;li&gt;HTML, CSS, Javascript (JQuery)&lt;/li&gt;
+  &lt;li&gt;PHP (Yii framework);&lt;/li&gt;
+  &lt;li&gt;Java (Grails framework);&lt;/li&gt;
+  &lt;li&gt;MongoDB, MySQL.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">Equipe Móvel is a mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts.</summary></entry><entry><title type="html">Sigo Trade</title><link href="http://localhost:4000/2014/01/01/sigo-trade.html" rel="alternate" type="text/html" title="Sigo Trade" /><published>2014-01-01T00:00:00-02:00</published><updated>2014-01-01T00:00:00-02:00</updated><id>http://localhost:4000/2014/01/01/sigo-trade</id><content type="html" xml:base="http://localhost:4000/2014/01/01/sigo-trade.html">&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
 
 &lt;p&gt;SIGO Trade is a trade marketing application focused on the management of sales promoters and POS (Point of Sale). It is a system with an intuitive and user-friendly interface, providing security in collecting data and more assertive merchandising actions. 
@@ -91,17 +97,13 @@ With SIGO Trade is possible to perform simple, fast and intuitively activities s
 &lt;h3 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Full Stack Developer&lt;/li&gt;
-  &lt;li&gt;Frontend/UX Designer&lt;/li&gt;
+  &lt;li&gt;Fullstack Developer&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;tech-stack&quot;&gt;Tech stack&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;JQuery&lt;/li&gt;
-  &lt;li&gt;PHP (Yii)&lt;/li&gt;
-  &lt;li&gt;Java (Grails)&lt;/li&gt;
-  &lt;li&gt;MySQL&lt;/li&gt;
+  &lt;li&gt;HTML, CSS, Javascript (JQuery)&lt;/li&gt;
+  &lt;li&gt;PHP (Yii framework);&lt;/li&gt;
+  &lt;li&gt;Java (Grails framework);&lt;/li&gt;
+  &lt;li&gt;MySQL.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">SIGO Trade is a trade marketing application focused on the management of sales promoters and POS (Point of Sale).</summary></entry></feed>

@@ -7,9 +7,11 @@ title: Portfolio
 
 <div class="mb-0">
     {% for post in site.posts %}
-    <div class="media mb-2 bg-light">
-        <img class="p-3 portfolio-image" src="{{ post.image_url }}" alt="{{post.title}}" />
-        <div class="media-body p-3">
+    <div class="d-flex flex-column flex-md-row m-md-5 m-3 mb-5 bg-light">
+        <div class="portfolio-box-image text-center">
+            <img class="portfolio-image" src="{{ post.image_url }}" alt="{{post.title}}" />
+        </div>
+        <div class="ml-md-3">
             <h3 class="mt-0 mb-1">{{ post.title }}</h3>
             <h6>{{ post.start_date | date: "%B %Y" }} - {{ post.end_date | date: "%B %Y" }}</h6>
             <p class="pt-2">

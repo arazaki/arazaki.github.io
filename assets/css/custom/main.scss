@@ -6,6 +6,10 @@
   
 }
 
+.portfolio-box-image{
+  margin-bottom: 1.5rem;
+}
+
 .portfolio-image{
   height: 200px;
   max-width: 285px;
@@ -17,10 +21,21 @@
 }
 
 .profile-section{
-  padding: 2rem 2rem 0 2rem;
+  padding: 0.5rem 0.5rem 0 0.5rem;
 }
 
 .page-title{
   background-color: $secondary;
   color: $white;
+}
+
+/* == Desktop later == */
+@include media-breakpoint-up(md) {
+  .portfolio-box-image{
+    height: 200px;
+    min-width: 310px;
+  }
+  .profile-section{
+    padding: 2rem 2rem 0 2rem;
+  }
 }

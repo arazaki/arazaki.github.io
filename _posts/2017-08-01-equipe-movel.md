@@ -5,10 +5,9 @@ end_date: "2017-08-01"
 tech_stack:
     - HTML
     - CSS
-    - Javascript
-    - JQuery
-    - Java (Grails)
-    - MongoDB
+    - Javascript (JQuery)
+    - PHP (Yii framework)
+    - Java (Grails framework)
     - MySQL
 excerpt: "Equipe Móvel is a mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts."
 ---
@@ -18,14 +17,10 @@ Equipe Móvel is a mobile and web application developed to assist external teams
 
 ### Responsibilities
 
-- Requirements gathering
-- Frontend/UX Designer
+- Fullstack Developer
 
 ### Tech stack
-- HTML
-- CSS
-- Javascript
-- JQuery
-- Java (Grails)
-- MongoDB
-- MySQL
+- HTML, CSS, Javascript (JQuery)
+- PHP (Yii framework);
+- Java (Grails framework);
+- MongoDB, MySQL.

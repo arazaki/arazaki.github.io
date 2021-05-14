@@ -2290,10 +2290,16 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
   .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; } }
 .image { max-height: 200px; width: auto; overflow: hidden; padding: 0; }
 
+.portfolio-box-image { margin-bottom: 1.5rem; }
+
 .portfolio-image { height: 200px; max-width: 285px; }
 
 .profile-image { max-height: 200px; max-width: 200px; }
 
-.profile-section { padding: 2rem 2rem 0 2rem; }
+.profile-section { padding: 0.5rem 0.5rem 0 0.5rem; }
 
 .page-title { background-color: #6c757d; color: #fff; }
+
+/* == Desktop later == */
+@media (min-width: 768px) { .portfolio-box-image { height: 200px; min-width: 310px; }
+  .profile-section { padding: 2rem 2rem 0 2rem; } }

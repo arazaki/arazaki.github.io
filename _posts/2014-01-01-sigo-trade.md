@@ -1,14 +1,13 @@
 ---
 image_url: "/assets/images/sigo-trade.png"
 start_date: "2012-02-01"
-end_date: "2014-01-01"
+end_date: "2018-01-01"
 tech_stack:
     - HTML
     - CSS
-    - Javascript
-    - JQuery
-    - PHP (Yii)
-    - Java (Grails)
+    - Javascript (JQuery)
+    - PHP (Yii framework)
+    - Java (Grails framework)
     - MySQL
 excerpt: "SIGO Trade is a trade marketing application focused on the management of sales promoters and POS (Point of Sale)."
 ---
@@ -25,14 +24,10 @@ With SIGO Trade is possible to perform simple, fast and intuitively activities s
 
 ### Responsibilities
 
-- Full Stack Developer
-- Frontend/UX Designer
+- Fullstack Developer
 
 ### Tech stack
-- HTML
-- CSS
-- Javascript
-- JQuery
-- PHP (Yii)
-- Java (Grails)
-- MySQL
+- HTML, CSS, Javascript (JQuery)
+- PHP (Yii framework);
+- Java (Grails framework);
+- MySQL.
