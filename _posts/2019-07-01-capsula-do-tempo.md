@@ -1,6 +1,6 @@
 ---
 image_url: "/assets/images/capsula-do-tempo.png"
-start_date: "2018-12-01"
+start_date: "2020-11-01"
 end_date: "Current"
 website: "https://www.capsuladotempoeventos.com.br/"
 tech_stack:
