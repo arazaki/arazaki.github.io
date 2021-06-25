@@ -18,6 +18,9 @@
 .profile-image{
   max-height: 200px;
   max-width: 200px;
+  border: 0px solid transparent;
+  border-radius: 100px;
+  padding: 0;
 }
 
 .profile-section{
@@ -27,6 +30,11 @@
 .page-title{
   background-color: $secondary;
   color: $white;
+}
+
+.portfolio-detail-image{
+  height: 400px;
+  max-width: 570px;
 }
 
 /* == Desktop later == */

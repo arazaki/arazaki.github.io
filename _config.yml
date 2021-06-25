@@ -26,3 +26,4 @@ plugins:
 
 sass:
   sass_dir: /assets/css
+  github: [metadata]
