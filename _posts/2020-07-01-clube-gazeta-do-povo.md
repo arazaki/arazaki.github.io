@@ -13,7 +13,9 @@ excerpt: "A members-only savings/discount program with a great variety of partne
 ---
 ### Description
 
-A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows. As a Product Owner I was responsible to ensure that the most valuable product was being delivered to the members (customers). I kept track of the app’s usage, member’s feedback, developed and managed the Product Backlog. 
+A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows. As a Product Owner, I was responsible to ensure that the most valuable product was being delivered to the members (customers). I kept track of the app’s usage, member feedback, developed and managed the Product Backlog. 
+
+[Visit Clube Gazeta do Povo](https://clube.gazetadopovo.com.br/){:target="_blank"}
 
 ### Responsibilities
 
