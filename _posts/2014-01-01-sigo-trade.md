@@ -1,7 +1,7 @@
 ---
 image_url: "/assets/images/sigo-trade.png"
 start_date: "2012-02-01"
-end_date: "2018-01-01"
+end_date: "2018-06-01"
 tech_stack:
     - HTML
     - CSS
