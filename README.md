@@ -1,5 +1,7 @@
 # My Github page
 
+This project is in a specific branch called jekyll-version.
+
 This is the code used to create the follow webpage.
 https://arazaki.github.io/
 
