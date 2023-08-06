@@ -2,13 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 
 const Header = () => {
-  const isHome = React.useRef(false);
-
-  React.useEffect(() => {
-    if (window.location.pathname === "/") {
-      isHome.current = true;
-    }
-  }, []);
+  const isHome = React.useRef(window.location.pathname === "/");
 
   return (
     <header className="px-5 md:px-24 bg-white dark:bg-gray-900">

@@ -51,10 +51,11 @@ const Contact = () => {
             />
             Website
           </Link>
-          <Link
-            to="https://www.linkedin.com/in/arazaki"
+          <a
+            href="https://www.linkedin.com/in/arazaki"
             className="btn-secondary"
             target="_blank"
+            rel="noreferrer"
           >
             <Linkedin
               width={30}
@@ -63,7 +64,7 @@ const Contact = () => {
               color={"currentColor"}
             />
             LinkedIn
-          </Link>
+          </a>
           <button onClick={copyToClipboard} className="btn-secondary">
             <Mail
               width={30}
@@ -73,9 +74,10 @@ const Contact = () => {
             />
             Email - {isCopied ? "copied!" : "click to copy"}
           </button>
-          <Link
-            to="https://calendly.com/fabioarazaki/30"
+          <a
+            href="https://calendly.com/fabioarazaki/30"
             target="_blank"
+            rel="noreferrer"
             className="btn-secondary"
           >
             <Calendar
@@ -85,13 +87,14 @@ const Contact = () => {
               color={"transparent"}
             />
             Calendly
-          </Link>
+          </a>
         </div>
         <div className="flex mt-8 gap-5">
-          <Link
-            to="https://twitter.com/arazaki"
+          <a
+            href="https://twitter.com/arazaki"
             className="btn-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <Twitter
               width={50}
@@ -99,11 +102,12 @@ const Contact = () => {
               outline={"currentColor"}
               color={"currentColor"}
             />
-          </Link>
-          <Link
-            to="https://www.facebook.com/fabioarazaki"
+          </a>
+          <a
+            href="https://www.facebook.com/fabioarazaki"
             className="btn-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <Facebook
               width={50}
@@ -111,11 +115,12 @@ const Contact = () => {
               outline={"currentColor"}
               color={"currentColor"}
             />
-          </Link>
-          <Link
-            to="https://www.instagram.com/fabioarazaki/"
+          </a>
+          <a
+            href="https://www.instagram.com/fabioarazaki/"
             className="btn-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <Instagram
               width={50}
@@ -123,11 +128,12 @@ const Contact = () => {
               outline={"currentColor"}
               color={"currentColor"}
             />
-          </Link>
-          <Link
-            to="https://t.me/taiyogama"
+          </a>
+          <a
+            href="https://t.me/taiyogama"
             className="btn-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <Telegram
               width={50}
@@ -135,11 +141,12 @@ const Contact = () => {
               outline={"currentColor"}
               color={"currentColor"}
             />
-          </Link>
-          <Link
-            to="https://api.whatsapp.com/send/?phone=5541985157009"
+          </a>
+          <a
+            href="https://api.whatsapp.com/send/?phone=5541985157009"
             className="btn-icon"
             target="_blank"
+            rel="noreferrer"
           >
             <WhatsApp
               width={50}
@@ -147,7 +154,7 @@ const Contact = () => {
               outline={"currentColor"}
               color={"currentColor"}
             />
-          </Link>
+          </a>
         </div>
       </div>
     </main>

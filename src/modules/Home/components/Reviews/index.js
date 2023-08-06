@@ -28,6 +28,7 @@ const Reviews = () => {
           {reviewList.map((review) => {
             return (
               <ReviewCard
+                key={review.linkedin}
                 linkedin={review.linkedin}
                 title={review.title}
                 review={review.review}

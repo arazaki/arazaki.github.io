@@ -1,5 +1,4 @@
 import * as React from "react";
-import { Link } from "gatsby";
 
 const ReviewCard = ({ title, review, linkedin }) => {
   return (
@@ -7,9 +6,9 @@ const ReviewCard = ({ title, review, linkedin }) => {
       <p className="italic text-gray-600 dark:text-slate-400">{review}</p>
       <div className="flex flex-col mt-5 items-start">
         <h3 className="text-left text-base dark:text-slate-100">{title}</h3>
-        <Link href={linkedin} target="_blank">
+        <a href={linkedin} target="_blank" rel="noreferrer">
           {linkedin}
-        </Link>
+        </a>
       </div>
     </div>
   );
