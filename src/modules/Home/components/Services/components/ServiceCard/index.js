@@ -3,7 +3,7 @@ import * as React from "react";
 const ServiceCard = ({ title, description, IconAsset }) => {
   return (
     <div className="flex flex-col items-center text-center mx-5 mb-24 md:mb-0 max-w-sm md:max-w-xs">
-      <div className="mb-5 text-gray-600">
+      <div className="mb-5 text-gray-600 dark:text-slate-300">
         <IconAsset
           height={100}
           width={100}
@@ -12,7 +12,9 @@ const ServiceCard = ({ title, description, IconAsset }) => {
         />
       </div>
       <h3 className="mt-5 mb-8 font-medium text-gray-400">{title}</h3>
-      <p className="mb-5 font-normal text-gray-700">{description}</p>
+      <p className="mb-5 font-normal text-gray-700 dark:text-slate-400">
+        {description}
+      </p>
     </div>
   );
 };

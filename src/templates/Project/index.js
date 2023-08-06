@@ -15,7 +15,7 @@ const ProjectTemplate = ({ data }) => {
           <h1>{page.title}</h1>
           <h4 className="py-3">{page.period}</h4>
           <p className="py-5 mb-5 text-center lg:px-20">{page.description}</p>
-          <div className="flex flex-col md:flex-row w-full gap-5 p-5 md:p-10 bg-slate-100 rounded-lg">
+          <div className="flex flex-col md:flex-row w-full gap-5 p-5 md:p-10 bg-slate-100 dark:bg-slate-800 rounded-lg">
             <div className="md:w-1/2 md:min-w-1/2">
               <div className="flex flex-col items-start text-left mb-5">
                 <h3 className="mb-3 font-semibold">Main Activities</h3>

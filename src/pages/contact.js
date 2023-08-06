@@ -33,8 +33,8 @@ const Contact = () => {
 
   return (
     <main>
-      <div className="container px-5 py-20 flex flex-col items-center">
-        <div className="h-24 w-24 rounded-full border-2 border-gray-700 overflow-hidden flex">
+      <div className="container px-5 py-12 md:py-20 flex flex-col items-center">
+        <div className="h-24 w-24 rounded-full border-2 border-gray-700 md:border-gray-300 overflow-hidden flex">
           <img src={FabioImage} alt="placeholder" />
         </div>
         <h1 className="py-3 text-xl">Fabio Arazaki</h1>
