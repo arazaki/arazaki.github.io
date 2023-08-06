@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "portfolio/capsula-online",
+    "title": "Cápsula do Tempo Online",
+    "description": "Cápsula do Tempo Online is like an time Capsule web and mobile application that allows guests to record video messages during wedding events to be sent to the hosts (newlyweds) in the future.",
+    "activities": [
+      "Developed web application using ReactJS, HTML, and CSS",
+      "Created REST API using NodeJS, Cloud Functions, and Firebase",
+      "Developed the app using Flutter",
+      "Built a synchronization service",
+      "Implemented the CI/CD pipeline using Github Actions",
+      "Implemented the marketing website using GatsbyJS"
+    ],
+    "image": "projects/capsula-tempo-online.png",
+    "period": "01/2023 - current",
+    "tags": [
+      "Kanban",
+      "Firebase",
+      "React",
+      "Flutter",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "Gatsby",
+      "Github Actions"
+    ]
+  },
+  {
+    "slug": "portfolio/tradersclub",
+    "title": "TradersClub",
+    "description": "Traders Club is a Brazilian financial technology company that provides investment education, research, and execution services to retail investors.",
+    "activities": [
+      "Worked at TC (TradersClub) developing the biggest platform for investors in the LATAM financial market",
+      "Developed Storybook components according to TC's Design System",
+      "Developed the NPS survey process with React Native, React, CSS, HTML, and JavaScript stack",
+      "Developed the global menu using TC's Design System",
+      "Developed global search using Golang and ElasticSearch",
+      "Led two squads to develop information crawler/miner service and distribution across multiple platforms"
+    ],
+    "image": "projects/tradersclub.png",
+    "period": "09/2021 - 12/2022",
+    "tags": [
+      "Scrum",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Typescript",
+      "React Native",
+      "Golang",
+      "MongoDB",
+      "Elasticsearch",
+      "React",
+      "NATS",
+      "Kafka"
+    ]
+  },
+  {
+    "slug": "portfolio/clube-gazeta",
+    "title": "Clube Gazeta do Povo",
+    "description": "A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows.",
+    "activities": [
+      "Developed an e-commerce platform to sell event and cinema tickets, restaurant vouchers, and tours connected to a mobile app offering membership-only savings discounts",
+      "Led the team to ensure that the most valuable product was being delivered to the member's customers",
+      "Kept track of the app's usage, and member's feedback, developed and managed the Product Backlog"
+    ],
+    "image": "projects/clubegazetadopovo.png",
+    "period": "07/2019 - 10/2020",
+    "tags": ["Scrum", "ReactJS", "React Native", "NodeJS", "PostgreSQL"]
+  },
+  {
+    "slug": "portfolio/capsula-do-tempo",
+    "title": "Cápsula do Tempo",
+    "description": "Cápsula do tempo is a franchise of self-service totem for recording messages to be delivered in the future, like a time capsule. During an event (ie. wedding, graduation, anniversary) guests access the application through a touchscreen totem machine, record video messages, and then the totem starts to synchronize with the server (through an internet connection) that uploads the videos. On the server-side, the application schedule the videos to be sent in the future.",
+    "activities": [
+      "Worked as a Fullstack developer studying and documenting the features presented by the client, creating a web platform to serve the desktop app",
+      "Developed the app using ElectronJS",
+      "Built a synchronization service",
+      "Developed backend services of the platform with RubyOnRails",
+      "Developed the frontend with ReactJS, HTML, and CSS"
+    ],
+    "image": "projects/capsula-do-tempo.png",
+    "period": "11/2019 - 12/2021",
+    "tags": [
+      "Ruby on Rails",
+      "MongoDB",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "ElectronJS",
+      "NodeJS"
+    ]
+  },
+  {
+    "slug": "portfolio/clientool",
+    "title": "ClienTool",
+    "description": "ClienTOOL is a relationship marketing assistant that uses artificial intelligence to assist individual entrepreneurs prospecting, improving the flow of information and monitoring customer satisfaction.",
+    "activities": [
+      "Product Value Proposition Validation",
+      "Ran tests with users",
+      "Gathered requirements",
+      "Application Architecture"
+    ],
+    "image": "projects/clientool.png",
+    "period": "09/2017 - 11/2018",
+    "tags": ["Scrum", "MongoDB", "Java", "Grails", "Android"]
+  },
+  {
+    "slug": "portfolio/equipe-movel",
+    "title": "Equipe Móvel",
+    "description": "A mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts. All the information and activities can be watched through the web-based dashboard. It was created as a spin-off of SIGO Trade.",
+    "activities": [
+      "Product Value Proposition Validation",
+      "Gathered requirements",
+      "Application Architecture"
+    ],
+    "image": "projects/equipe-movel.png",
+    "period": "10/2016 - 08/2017",
+    "tags": [
+      "PHP",
+      "MySQL",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "Java",
+      "Grails",
+      "Yii Framework",
+      "Android"
+    ]
+  },
+  {
+    "slug": "portfolio/sigo-trade",
+    "title": "Sigo Trade",
+    "description": "A trade marketing application focused on the management of sales promoters and POS (Point of Sale). SIGO Trade was made to perform simple, fast and intuitively activities such as: creating routes for each promoter; monitoring external team; assembling and monitoring activities; data collection (shortage, stock, prices, photos); check-in/check-out control.",
+    "activities": [
+      "Gathered requirements",
+      "Analyzed the architecture",
+      "Developed web platform, interfaces, and android app",
+      "Managed the product backlog, prioritazed tasks, and designed interfaces"
+    ],
+    "image": "projects/sigo-trade.png",
+    "period": "02/2012 - 06/2018",
+    "tags": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "Java",
+      "Grails",
+      "Yii Framework",
+      "Android"
+    ]
+  }
+]

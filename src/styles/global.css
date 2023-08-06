@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: "Helvetica Neue", sans-serif;
+    box-sizing: border-box;
+  }
+  body {
+    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white text-center md:text-left;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-sans;
+  }
+  h1 {
+    @apply text-6xl text-gray-500 font-sans font-black;
+  }
+  h2 {
+    @apply text-5xl text-gray-400;
+  }
+  h3 {
+    @apply text-2xl text-gray-500;
+  }
+  p {
+    @apply text-lg;
+  }
+  section {
+    @apply px-5 py-10 md:px-24 md:py-20 relative;
+  }
+  a {
+    @apply no-underline;
+  }
+  img {
+    @apply bg-transparent;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply w-fit px-8 py-2 rounded-full font-semibold border-2 border-gray-700 dark:border-white text-gray-700 dark:text-white cursor-pointer hover:bg-yellow-500 hover:text-gray-500 hover:border-gray-500 transition-colors;
+  }
+  .btn-secondary {
+    @apply flex items-center justify-center gap-5 w-full px-8 py-4 rounded-full font-semibold border-2 border-gray-700 dark:border-white text-gray-700 dark:text-white cursor-pointer hover:bg-yellow-500 transition-colors;
+  }
+  .btn-icon {
+    @apply hover:text-yellow-500 transition-colors;
+  }
+  .container {
+    @apply mx-auto max-w-6xl;
+  }
+  .divider {
+    @apply absolute top-0 left-0 right-0 mx-12 mx-auto max-w-sm h-px bg-gray-300 dark:bg-white;
+  }
+  .chip {
+    @apply inline-flex text-xs py-1 px-2 rounded-full border text-white bg-gray-500 transition-colors hover:bg-yellow-500;
+  }
+  .stack {
+    @apply inline-flex text-sm px-2 border-r border-gray-500;
+  }
+  .stack:last-child {
+    @apply border-r-0;
+  }
+}
