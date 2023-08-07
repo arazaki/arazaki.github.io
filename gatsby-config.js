@@ -4,9 +4,9 @@
 module.exports = {
   siteMetadata: {
     title: `Fabio Arazaki`,
-    description: `Fabio Arazaki's personal website`,
+    description: `Somewhere I keep my stuff and thoughts.`,
     siteUrl: `https://arazaki.github.io`,
-    image: `/fabio-smile.jpg`,
+    image: `/icon.png`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: `${__dirname}/src/images/fabio-smile.jpg`,
+        icon: `${__dirname}/src/images/icon.png`,
       },
     },
     {
