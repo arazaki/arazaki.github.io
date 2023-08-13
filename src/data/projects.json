@@ -2,28 +2,36 @@
   {
     "slug": "portfolio/capsula-online",
     "title": "Cápsula do Tempo Online",
-    "description": "Cápsula do Tempo Online is like an time Capsule web and mobile application that allows guests to record video messages during wedding events to be sent to the hosts (newlyweds) in the future.",
+    "description": "Cápsula do Tempo Online is a time Capsule web and mobile application that allows guests to record video messages during wedding events to be sent to the hosts (newlyweds) in the future.",
     "activities": [
-      "Developed web application using ReactJS, HTML, and CSS",
-      "Created REST API using NodeJS, Cloud Functions, and Firebase",
-      "Developed the app using Flutter",
+      "Worked as a Fullstack developer studying and documenting the features presented by the client, creating a web platform to serve the desktop app",
+      "Developed the web application using ReactJS, HTML, and CSS",
+      "Developed backend services of the platform with RubyOnRails",
       "Built a synchronization service",
       "Implemented the CI/CD pipeline using Github Actions",
-      "Implemented the marketing website using GatsbyJS"
+      "Created REST API using NodeJS, Cloud Functions, and Firebase",
+      "Developed the app using Flutter",
+      "Implemented the marketing website using GatsbyJS",
+      "Developed the app using ElectronJS"
     ],
     "image": "projects/capsula-tempo-online.png",
-    "period": "01/2023 - current",
+    "period": "11/2019 - 12/2021 | 01/2023 - current",
     "tags": [
       "Kanban",
-      "Firebase",
-      "React",
+      "ReactJS",
       "Flutter",
-      "HTML",
-      "CSS",
       "JavaScript",
       "NodeJS",
+      "ElectronJS",
+      "Ruby on Rails",
       "Gatsby",
-      "Github Actions"
+      "Github Actions",
+      "PostgreSQL",
+      "MongoDB",
+      "Firebase",
+      "Styed Components",
+      "HTML",
+      "CSS"
     ]
   },
   {
@@ -36,23 +44,26 @@
       "Developed the NPS survey process with React Native, React, CSS, HTML, and JavaScript stack",
       "Developed the global menu using TC's Design System",
       "Developed global search using Golang and ElasticSearch",
+      "Developed microservices using Golang, NATS, and ElasticSearch",
+      "Designed the architecture of the TC's information service",
       "Led two squads to develop information crawler/miner service and distribution across multiple platforms"
     ],
     "image": "projects/tradersclub.png",
     "period": "09/2021 - 12/2022",
     "tags": [
       "Scrum",
-      "HTML",
-      "CSS",
+      "Jira",
       "JavaScript",
       "Typescript",
+      "ReactJS",
       "React Native",
       "Golang",
       "MongoDB",
       "Elasticsearch",
-      "React",
       "NATS",
-      "Kafka"
+      "Styed Components",
+      "HTML",
+      "CSS"
     ]
   },
   {
@@ -67,31 +78,6 @@
     "image": "projects/clubegazetadopovo.png",
     "period": "07/2019 - 10/2020",
     "tags": ["Scrum", "ReactJS", "React Native", "NodeJS", "PostgreSQL"]
-  },
-  {
-    "slug": "portfolio/capsula-do-tempo",
-    "title": "Cápsula do Tempo",
-    "description": "Cápsula do tempo is a franchise of self-service totem for recording messages to be delivered in the future, like a time capsule. During an event (ie. wedding, graduation, anniversary) guests access the application through a touchscreen totem machine, record video messages, and then the totem starts to synchronize with the server (through an internet connection) that uploads the videos. On the server-side, the application schedule the videos to be sent in the future.",
-    "activities": [
-      "Worked as a Fullstack developer studying and documenting the features presented by the client, creating a web platform to serve the desktop app",
-      "Developed the app using ElectronJS",
-      "Built a synchronization service",
-      "Developed backend services of the platform with RubyOnRails",
-      "Developed the frontend with ReactJS, HTML, and CSS"
-    ],
-    "image": "projects/capsula-do-tempo.png",
-    "period": "11/2019 - 12/2021",
-    "tags": [
-      "Ruby on Rails",
-      "MongoDB",
-      "PostgreSQL",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "ReactJS",
-      "ElectronJS",
-      "NodeJS"
-    ]
   },
   {
     "slug": "portfolio/clientool",
@@ -120,16 +106,16 @@
     "period": "10/2016 - 08/2017",
     "tags": [
       "PHP",
-      "MySQL",
-      "MongoDB",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "jQuery",
       "Java",
-      "Grails",
+      "JavaScript",
       "Yii Framework",
-      "Android"
+      "Grails",
+      "Android",
+      "MongoDB",
+      "MySQL",
+      "jQuery",
+      "HTML",
+      "CSS"
     ]
   },
   {
@@ -146,15 +132,15 @@
     "period": "02/2012 - 06/2018",
     "tags": [
       "PHP",
-      "MySQL",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "jQuery",
       "Java",
+      "JavaScript",
       "Grails",
       "Yii Framework",
-      "Android"
+      "jQuery",
+      "MySQL",
+      "Android",
+      "HTML",
+      "CSS"
     ]
   }
 ]

@@ -14,7 +14,7 @@ const reviewList = [
 const Reviews = () => {
   return (
     <section>
-      <div className="container flex flex-col md:flex-row justify-between">
+      <div className="container flex flex-col md:flex-row justify-between md:gap-8">
         <div className="">
           <img
             className="max-h-40rem rounded-lg"
