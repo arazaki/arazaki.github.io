@@ -1,6 +1,85 @@
 [
   {
-    "slug": "portfolio/capsula-online",
+    "slug": "symbolic",
+    "title": "Symbolic.ai",
+    "description": "AI that unlocks the potential of professional writers and publishers. Powerful tools for news, research, and corporate communications.",
+    "activities": [
+      "Worked as a Senior Software Engineer, creating a web platform through a figma prototype",
+      "Developed the web application using Elixir, NextJs, ReactJS, Typescript, Tailwind, HTML, and CSS",
+      "Implemented the OpenAi integration and the prompts generation service"
+    ],
+    "image": "projects/symbolic.png",
+    "isVisible": true,
+    "period": "08/2023 - current",
+    "tags": [
+      "Elixir",
+      "NextJs",
+      "ReactJS",
+      "Typescript",
+      "Tailwind",
+      "PostgreSQL",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "slug": "idiomus",
+    "title": "Idiomus - Poli",
+    "description": "Idiomus - Poli is a web application designed for English learners of all levels. It allows students to practice and enhance their language skills by interacting with a comprehensive AI tutor that offers real-time feedback on form, grammar, and vocabulary.",
+    "activities": [
+      "Worked as a Fullstack developer, creating a web platform through a figma prototype",
+      "Developed the web application using Laravel, ReactJS, Typescript, Tailwind, HTML, and CSS",
+      "Developed backend services of the platform with Laravel",
+      "Implemented the OpenAi integration and the prompts generation service"
+    ],
+    "image": "",
+    "isVisible": false,
+    "period": "08/2023 - current",
+    "tags": [
+      "ReactJS",
+      "Typescript",
+      "Laravel",
+      "Tailwind",
+      "MySQL",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "slug": "tradersclub",
+    "title": "TradersClub",
+    "description": "Traders Club is a Brazilian financial technology company that provides investment education, research, and execution services to retail investors.",
+    "activities": [
+      "Worked at TC (TradersClub) developing the biggest platform for investors in the LATAM financial market",
+      "Developed Storybook components according to TC's Design System",
+      "Developed the NPS survey process with React Native, React, CSS, HTML, and JavaScript stack",
+      "Developed the global menu using TC's Design System",
+      "Developed global search using Golang and ElasticSearch",
+      "Developed microservices using Golang, NATS, and ElasticSearch",
+      "Designed the architecture of the TC's information service",
+      "Led two squads to develop information crawler/miner service and distribution across multiple platforms"
+    ],
+    "image": "projects/tradersclub.png",
+    "isVisible": true,
+    "period": "09/2021 - 05/2023",
+    "tags": [
+      "Scrum",
+      "Jira",
+      "JavaScript",
+      "Typescript",
+      "ReactJS",
+      "React Native",
+      "Golang",
+      "MongoDB",
+      "Elasticsearch",
+      "NATS",
+      "Styed Components",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "slug": "capsula-online",
     "title": "Cápsula do Tempo Online",
     "description": "Cápsula do Tempo Online is a time Capsule web and mobile application that allows guests to record video messages during wedding events to be sent to the hosts (newlyweds) in the future.",
     "activities": [
@@ -15,6 +94,7 @@
       "Developed the app using ElectronJS"
     ],
     "image": "projects/capsula-tempo-online.png",
+    "isVisible": true,
     "period": "11/2019 - 12/2021 | 01/2023 - current",
     "tags": [
       "Kanban",
@@ -35,39 +115,7 @@
     ]
   },
   {
-    "slug": "portfolio/tradersclub",
-    "title": "TradersClub",
-    "description": "Traders Club is a Brazilian financial technology company that provides investment education, research, and execution services to retail investors.",
-    "activities": [
-      "Worked at TC (TradersClub) developing the biggest platform for investors in the LATAM financial market",
-      "Developed Storybook components according to TC's Design System",
-      "Developed the NPS survey process with React Native, React, CSS, HTML, and JavaScript stack",
-      "Developed the global menu using TC's Design System",
-      "Developed global search using Golang and ElasticSearch",
-      "Developed microservices using Golang, NATS, and ElasticSearch",
-      "Designed the architecture of the TC's information service",
-      "Led two squads to develop information crawler/miner service and distribution across multiple platforms"
-    ],
-    "image": "projects/tradersclub.png",
-    "period": "09/2021 - 12/2022",
-    "tags": [
-      "Scrum",
-      "Jira",
-      "JavaScript",
-      "Typescript",
-      "ReactJS",
-      "React Native",
-      "Golang",
-      "MongoDB",
-      "Elasticsearch",
-      "NATS",
-      "Styed Components",
-      "HTML",
-      "CSS"
-    ]
-  },
-  {
-    "slug": "portfolio/clube-gazeta",
+    "slug": "clube-gazeta",
     "title": "Clube Gazeta do Povo",
     "description": "A members-only savings/discount program with a great variety of partners like restaurants, pet shops, fitness centers, schools, cinema, and live shows.",
     "activities": [
@@ -76,11 +124,12 @@
       "Kept track of the app's usage, and member's feedback, developed and managed the Product Backlog"
     ],
     "image": "projects/clubegazetadopovo.png",
+    "isVisible": true,
     "period": "07/2019 - 10/2020",
     "tags": ["Scrum", "ReactJS", "React Native", "NodeJS", "PostgreSQL"]
   },
   {
-    "slug": "portfolio/clientool",
+    "slug": "clientool",
     "title": "ClienTool",
     "description": "ClienTOOL is a relationship marketing assistant that uses artificial intelligence to assist individual entrepreneurs prospecting, improving the flow of information and monitoring customer satisfaction.",
     "activities": [
@@ -90,11 +139,12 @@
       "Application Architecture"
     ],
     "image": "projects/clientool.png",
+    "isVisible": true,
     "period": "09/2017 - 11/2018",
     "tags": ["Scrum", "MongoDB", "Java", "Grails", "Android"]
   },
   {
-    "slug": "portfolio/equipe-movel",
+    "slug": "equipe-movel",
     "title": "Equipe Móvel",
     "description": "A mobile and web application developed to assist external teams to organize their tasks, to create and follow routes and keep track of alerts. All the information and activities can be watched through the web-based dashboard. It was created as a spin-off of SIGO Trade.",
     "activities": [
@@ -103,6 +153,7 @@
       "Application Architecture"
     ],
     "image": "projects/equipe-movel.png",
+    "isVisible": true,
     "period": "10/2016 - 08/2017",
     "tags": [
       "PHP",
@@ -119,7 +170,7 @@
     ]
   },
   {
-    "slug": "portfolio/sigo-trade",
+    "slug": "sigo-trade",
     "title": "Sigo Trade",
     "description": "A trade marketing application focused on the management of sales promoters and POS (Point of Sale). SIGO Trade was made to perform simple, fast and intuitively activities such as: creating routes for each promoter; monitoring external team; assembling and monitoring activities; data collection (shortage, stock, prices, photos); check-in/check-out control.",
     "activities": [
@@ -129,6 +180,7 @@
       "Managed the product backlog, prioritazed tasks, and designed interfaces"
     ],
     "image": "projects/sigo-trade.png",
+    "isVisible": true,
     "period": "02/2012 - 06/2018",
     "tags": [
       "PHP",

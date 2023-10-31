@@ -28,6 +28,9 @@
   h3 {
     @apply text-2xl text-gray-500 dark:text-gray-300;
   }
+  h4 {
+    @apply text-xl font-medium text-yellow-500;
+  }
   p {
     @apply text-lg;
   }
@@ -49,6 +52,9 @@
   .btn-secondary {
     @apply flex items-center justify-center gap-5 w-full px-8 py-4 rounded-full font-semibold border-2 border-gray-700 dark:border-white text-gray-700 dark:text-white hover:text-slate-600 hover:border-slate-500 cursor-pointer hover:bg-yellow-500 transition-colors;
   }
+  .btn-link {
+    @apply w-fit py-2 font-semibold  text-gray-700 dark:text-white cursor-pointer hover:text-yellow-500 underline underline-offset-2 transition-colors;
+  }
   .btn-icon {
     @apply hover:text-yellow-500 transition-colors;
   }
@@ -66,5 +72,8 @@
   }
   .stack:last-child {
     @apply border-r-0;
+  }
+  .box {
+    @apply border box-border dark:border-white rounded-lg p-5;
   }
 }

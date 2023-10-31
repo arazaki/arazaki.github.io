@@ -29,7 +29,7 @@ exports.createPages = async ({ graphql, actions }) => {
   // create a page for each json data
   result.data.allProjectsJson.nodes.forEach((page) => {
     createPage({
-      path: page.slug,
+      path: `/portfolio/${page.slug}`,
       component: path.resolve("./src/templates/Project/index.js"),
       context: {
         slug: page.slug,

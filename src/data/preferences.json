@@ -1,0 +1,100 @@
+{
+  "#coding": [
+    {
+      "category": "coding",
+      "name": "Tailwind CSS",
+      "why": "I like the utility-first approach to styling. It's also very easy to use and customize.",
+      "when": "Whenever I'm creating an MVP or a quick prototype.",
+      "image": "preferences/tailwind.svg",
+      "link": "https://tailwindcss.com/",
+      "projects": [
+        {
+          "name": "arazaki.dev",
+          "link": "/"
+        },
+        {
+          "name": "this website",
+          "link": "https://arazaki.github.io/"
+        }
+      ]
+    },
+    {
+      "category": "coding",
+      "name": "Styled Components",
+      "why": "I like the way the components are styled in the same file/folder as the component itself. It's also very easy to use and customize.",
+      "when": "When creating a design system or a component library.",
+      "image": "preferences/styled-components.svg",
+      "link": "https://styled-components.com/",
+      "projects": [
+        {
+          "name": "this website",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "category": "coding",
+      "name": "React JS",
+      "why": "Probably because it was the first framework I learned. It was a huge improvement over jQuery and vanilla JS and I've been using it ever since.",
+      "when": "When creating a website or web app.",
+      "image": "preferences/react.svg",
+      "link": "https://reactjs.org/",
+      "projects": [
+        {
+          "name": "this website",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "category": "coding",
+      "name": "NextJS",
+      "why": "I like the way it handles routing, the new app router (> v. 13), the server-side rendering, server components (experimental), and how easy it is to deploy to Vercel.",
+      "when": "Web Applications that require server-side rendering.",
+      "image": "preferences/nextjs.svg",
+      "link": "https://nextjs.org/",
+      "projects": [
+        {
+          "name": "TC - Traders Club",
+          "link": "../portfolio/tradersclub"
+        }
+      ]
+    },
+    {
+      "category": "coding",
+      "name": "Zustand",
+      "why": "I like the way it handles state management (don't need to wrap the app in a provider, don't need to use hooks, etc). It's very easy to use and it's also very lightweight.",
+      "when": "Almost every time that I consider using UseContext.",
+      "image": "preferences/zustand.png",
+      "link": "https://zustand-demo.pmnd.rs/",
+      "projects": [
+        {
+          "name": "Cápsula do Tempo Online",
+          "link": "../portfolio/capsula-online"
+        },
+        {
+          "name": "TC - Traders Club",
+          "link": "../portfolio/tradersclub"
+        }
+      ]
+    },
+    {
+      "category": "coding",
+      "name": "React Query",
+      "why": "I like the way it handles data fetching, caching, and updating. It has loading, error, fetching states built-in. It's a good layer between the UI and the API.",
+      "when": "When I need to fetch data from an API.",
+      "image": "preferences/react-query.png",
+      "link": "https://tanstack.com/query/latest/docs/react/overview",
+      "projects": [
+        {
+          "name": "Cápsula do Tempo Online",
+          "link": "../portfolio/capsula-online"
+        },
+        {
+          "name": "TC - Traders Club",
+          "link": "../portfolio/tradersclub"
+        }
+      ]
+    }
+  ]
+}
